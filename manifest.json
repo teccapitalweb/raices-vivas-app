@@ -1,0 +1,24 @@
+{
+  "name": "Raíces Vivas",
+  "short_name": "Raíces Vivas",
+  "description": "Aprende, preserva y comparte lenguas originarias de México",
+  "start_url": "/raices-vivas-app/",
+  "display": "standalone",
+  "background_color": "#F5E6C8",
+  "theme_color": "#8B5E34",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
